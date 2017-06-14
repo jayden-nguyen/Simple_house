@@ -4,7 +4,7 @@ public class MainDraw {
 			House house1 = new House();
 			house1.HouseDraw(200,200);
 			TheSun theSun = new TheSun();
-			theSun.theSunDraw(-40, -40);
+			//theSun.theSunDraw(-40, -40);
 			
 			
 			
